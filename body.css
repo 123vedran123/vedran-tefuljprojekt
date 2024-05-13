@@ -7,4 +7,10 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
-
+}
+p.citat{
+    background-color:yellow;
+    text-decoration:non;
+    text-align:left;
+    font-familiy:verdana,arial,sans-sarif;
+}
