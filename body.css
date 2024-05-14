@@ -18,3 +18,25 @@ p.citat{
     padding-bottom: 50px;
     padding-left: 80px;
 }
+ul li a, un li a:visited{
+  display: block;
+  text-decoration: none;
+  margin: 1px;
+  padding: 2px 0px 2px 5px;
+  width: 100px;
+  border-left-color: blue;
+}
+ul, li{
+  list-style: none; 
+  margin: 0px;
+  padding: 1px;
+  font-witdh: bold;
+  border-left-style: solid;
+  border-witdh: 6px;
+  background-color: yellow;
+}
+ul li a:hover{
+  text-decoration: none;
+  border-left-color: green;
+  background-color: red;
+}
