@@ -49,15 +49,15 @@ border-width: 1px 1px 1px 1px;
 }
 input {
 margin-left: 10px;
-background: #CCADAD;
+background: #ddff00;
 }
 select {
-background: #CCADAD;
+background: #ddff00;
 }
 option {
 font-family: "tahoma", verdana;
 font-size: 11px;
-background: #CCADAD;
+background: #ddff00;
 }
 .grupa {
 font-weight: bold;
