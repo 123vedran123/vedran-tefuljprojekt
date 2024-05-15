@@ -1,6 +1,19 @@
 <html>
 	<link rel="stylesheet" type="text/css" href="body.css">
   <body>
+	  	  <form name="formular">
+<select name="izbornik">
+<option value=none class="grupa">korisni linkovi</option>
+<option value="http://www.w3.org">W3C</option>
+<option value="http://www.google.com">Google</option>
+<option value=none class="grupa">blogovi</option>
+<option value="http://tutor.blog.hr">tutor.blog</option>
+<option value="http://cwtam.inobscuro.com">cwtam</option>
+<option value=none selected id="dno">linkovi</option>
+</select>
+<input type="button" name="gumb" value="Kreni!" 
+onClick="location=document.formular.izbornik.options[document.formular.izbornik.selectedIndex].value;">
+</form>
     <h1>Parni Valjak</h1>
 	  <p class="citat">
 		Parni valjak hrvatski je pop-rock sastav. Osnovan je 1975., razilaženjem Grupe 220, a na sceni je do danas,
@@ -20,18 +33,5 @@
 	<area shape="circle" coords="625,331,36" href="https://parnivaljak.com/bend/zorislav-preksavec-preksi/">
 	 </map>
 <img src="Parnivaljak.jpg" usemap="#mapa">
-	  <form name="formular">
-<select name="izbornik">
-<option value=none class="grupa">korisni linkovi</option>
-<option value="http://www.w3.org">W3C</option>
-<option value="http://www.google.com">Google</option>
-<option value=none class="grupa">blogovi</option>
-<option value="http://tutor.blog.hr">tutor.blog</option>
-<option value="http://cwtam.inobscuro.com">cwtam</option>
-<option value=none selected id="dno">linkovi</option>
-</select>
-<input type="button" name="gumb" value="Kreni!" 
-onClick="location=document.formular.izbornik.options[document.formular.izbornik.selectedIndex].value;">
-</form>
   </body>
 </html>
