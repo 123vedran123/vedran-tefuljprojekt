@@ -40,3 +40,32 @@ ul li a:hover{
   border-left-color: green;
   background-color: red;
 }
+form {
+margin: 10px;
+}
+input, select {
+border: #000000 solid;
+border-width: 1px 1px 1px 1px;
+}
+input {
+margin-left: 10px;
+background: #CCADAD;
+}
+select {
+background: #CCADAD;
+}
+option {
+font-family: "tahoma", verdana;
+font-size: 11px;
+background: #CCADAD;
+}
+.grupa {
+font-weight: bold;
+text-decoration: underline;
+font-style: italic;
+font-size: 12px;
+padding-top: 2px;
+}
+#dno {
+display: none;
+}
