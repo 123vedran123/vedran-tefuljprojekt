@@ -36,7 +36,7 @@ p.citat
 #jahaci li a{
     color: black;
 }
-#jahaci ul li a:hover{
+#jahaci li a: hover{
   text-decoration: none;
   border-left-color: green;
   background-color: red;
