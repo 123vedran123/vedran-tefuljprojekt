@@ -11,7 +11,7 @@ img{
 
 p.citat{
     background-color:red;
-    text-decoration:underline;
+    text-decoration:non;
     text-align:left;
     font-familiy:verdana,arial,sans-sarif;
     font-weight:bold;
