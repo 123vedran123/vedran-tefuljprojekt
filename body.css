@@ -3,7 +3,10 @@ body
 {
     background-color: rgb(167, 247, 227);
 }
-
+img{
+    margine-left: 5px;
+    margine-right: 5px;
+}
 
 p.citat{
     background-color:rgb(255, 253, 164);
