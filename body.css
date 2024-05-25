@@ -42,22 +42,11 @@ li a:hover {
 
 
 
-table{
-font-size: 11px;
-margin: 0px;
-}
-
-}
-th {
-font-weight: normal;
-padding: 4px;
-border: 0px;
-}
-td {
-font-weight: normal;
-padding: 4px;
-border: 0px;
-text-decoration:none;
+table {
+    display: table;
+    border-spacing: 2px;
+    border-color: gray;
+    text-decoration:none;
 }
 
 
