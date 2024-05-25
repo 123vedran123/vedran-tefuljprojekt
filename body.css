@@ -60,8 +60,7 @@ background-color: #86d9ee00;
 font-weight: normal;
 padding: 4px;
 border: 0px;
-list-style-type: none;
-text-decoration:none;
+overflow: hidden;
 }
 
 
