@@ -10,7 +10,6 @@ img{
 
 p.citat{
     background-color:rgb(255, 253, 164);
-    text-decoration:non;
     border:1px solid #000;
     text-align:left;
     font-familiy:verdana,arial,sans-sarif;
@@ -43,12 +42,25 @@ li a:hover {
 
 
 
-table {
-    display: table;
-    border-collapse: separate;
-    box-sizing: border-box;
-    border-spacing: 2px;
-    border-color: gray;
+table{
+font-size: 11px;
+margin: 0px;
 }
+
+}
+th {
+font-weight: normal;
+padding: 4px;
+border: 0px;
+}
+td {
+font-weight: normal;
+padding: 4px;
+border: 0px;
+text-decoration:none;
+}
+
+
+
 
 
