@@ -43,25 +43,12 @@ li a:hover {
 
 
 
-table{
-text-align: center;
-margin: 0px;
-}
-th {
-color: black;
-background-color: #86d9ee00;
-font-weight: normal;
-padding: 4px;
-border: 0px;
-}
-td {
-color: black;
-background-color: #86d9ee00;
-font-weight: normal;
-padding: 4px;
-border: 0px;
-overflow: hidden;
-text-decoration:non;
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    border-spacing: 2px;
+    border-color: gray;
 }
 
 
