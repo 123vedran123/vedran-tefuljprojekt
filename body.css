@@ -44,7 +44,7 @@ li a:hover {
 
 table {
     display: table;
-    border-spacing: 2px;
+    border-spacing: 5px;
     border-color: gray;
     text-decoration:none;
 }
