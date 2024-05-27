@@ -47,12 +47,15 @@ table a{
     border-spacing: 5px;
     border-color: gray;
     text-decoration:none;
+    color: black;
 }
 th a{
      text-decoration:none;
+    color: black;
 }
 td a{
     text-decoration: none;
+    color: black;
 }
 
 
