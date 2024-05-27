@@ -42,16 +42,16 @@ li a:hover {
 
 
 
-table {
+table a{
     display: table;
     border-spacing: 5px;
     border-color: gray;
     text-decoration:none;
 }
-th{
+th a{
      text-decoration:none;
 }
-td{
+td a{
     text-decoration: none;
 }
 
