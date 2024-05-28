@@ -50,12 +50,15 @@ table a{
     color: black;
     witdh: 50%;
     cellspacing: 0;
-    border: 1;
     display: table;
     border-collapse: separate;
     box-sizing: border-box;
     text-indent: initial;
     unicode-bidi: isolate;
+    border: 3px solid;
+    cellspacing: 15;
+    cellpadding: 15;
+}
 }
 th a{
      text-decoration:none;
