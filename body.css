@@ -56,8 +56,6 @@ table a{
     text-indent: initial;
     unicode-bidi: isolate;
     border: 3px solid;
-    cellspacing: 15;
-    cellpadding: 15;
 }
 }
 th a{
