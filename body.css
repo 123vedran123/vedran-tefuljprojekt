@@ -50,6 +50,7 @@ table a{
     color: black;
     witdh: 50%;
     cellspacing: 0;
+    border: 1;
 }
 th a{
      text-decoration:none;
