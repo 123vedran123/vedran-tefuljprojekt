@@ -40,16 +40,6 @@ li a:hover {
   background-color: #111;
 }
 
-
-
-table a{
-border: 3px solid;
-    border-color: "blue";
-    width: 50%;
-    cellspacing: 15;
-    cellpadding: 15;
-}
-
 table a{
     display: table;
     border-collapse: separate;
