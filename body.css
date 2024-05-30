@@ -40,23 +40,20 @@ li a:hover {
   background-color: #111;
 }
 table a{
-    border-collapse: separate;
-    text-indent: initial;
-    border-spacing: 2px;
-    border: 3px solid;
     text-decoration: none;
     color: black;
     width: 50%;
 }
-tr a{
-    display: table-row;
-    vertical-align: inherit;
-    unicode-bidi: isolate;
-    border-color: inherit;
+th a{
      text-decoration: none;
     color: black;
 }
-
-
+td a{
+    text-decoration: none;
+    color: black;
+}
+table, th, td a{
+  border: 1px solid;
+}
 
 
