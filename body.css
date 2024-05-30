@@ -39,25 +39,18 @@ li a {
 li a:hover {
   background-color: #111;
 }
-
 table a{
-    display: table;
-    box-sizing: border-box;
+    border-collapse: separate;
+    text-indent: initial;
     border-spacing: 2px;
-    border-color: gray;
-    border: 1px solid;
+}
+tr a{
+    display: table-row;
+    vertical-align: inherit;
+    unicode-bidi: isolate;
+    border-color: inherit;
 }
 
-th a{
-     text-decoration:none;
-    color: black;
-     border: 1px solid;
-}
-td a{
-    text-decoration: none;
-    color: black;
-     border: 1px solid;
-}
 
 
 
