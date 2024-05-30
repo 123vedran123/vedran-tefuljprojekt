@@ -48,15 +48,18 @@ table a{
     unicode-bidi: isolate;
     border-spacing: 2px;
     border-color: gray;
+    border: 1px solid;
 }
 
 th a{
      text-decoration:none;
     color: black;
+     border: 1px solid;
 }
 td a{
     text-decoration: none;
     color: black;
+     border: 1px solid;
 }
 
 
