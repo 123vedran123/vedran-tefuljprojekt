@@ -52,7 +52,7 @@ td a{
     text-decoration: none;
     color: black;
 }
-table, th, td a{
+table a{
   border: 1px solid;
 }
 
