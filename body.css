@@ -43,6 +43,7 @@ table a{
     text-decoration: none;
     color: black;
     width: 50%;
+    border: 1px solid;
 }
 th a{
      text-decoration: none;
@@ -52,8 +53,6 @@ td a{
     text-decoration: none;
     color: black;
 }
-tr a{
-  border: 1px solid;
-}
+
 
 
